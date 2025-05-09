@@ -1,0 +1,7 @@
+TYPES: BEGIN OF zestrutura_produto,
+         codigo     TYPE char10,
+         nome       TYPE char40,
+         categoria  TYPE char20,
+         estoque    TYPE i,
+         validade   TYPE dats,
+       END OF zestrutura_produto.

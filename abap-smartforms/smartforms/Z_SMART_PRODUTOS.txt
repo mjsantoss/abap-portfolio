@@ -1,0 +1,3 @@
+Título: Relatório de Produtos
+Tabela principal: itab_produtos
+Colunas: codigo, nome, categoria, estoque, validade

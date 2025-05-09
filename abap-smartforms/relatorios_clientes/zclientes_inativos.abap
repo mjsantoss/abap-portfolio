@@ -1,0 +1,1 @@
+* Dummy content for zclientes_inativos.abap *

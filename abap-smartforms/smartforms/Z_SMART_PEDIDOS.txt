@@ -1,0 +1,3 @@
+Título: Relatório de Pedidos
+Tabela principal: itab_pedidos
+Colunas: pedido, data, cliente, valor_total

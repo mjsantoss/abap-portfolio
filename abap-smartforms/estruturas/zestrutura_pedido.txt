@@ -1,0 +1,6 @@
+TYPES: BEGIN OF zestrutura_pedido,
+         pedido      TYPE char10,
+         data        TYPE dats,
+         cliente     TYPE char30,
+         valor_total TYPE p DECIMALS 2,
+       END OF zestrutura_pedido.

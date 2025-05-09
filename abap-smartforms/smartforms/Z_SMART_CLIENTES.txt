@@ -1,0 +1,3 @@
+Título: Relatório de Clientes
+Tabela principal: itab_clientes
+Colunas: codigo, nome, cidade, ultima_compra

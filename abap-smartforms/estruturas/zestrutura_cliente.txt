@@ -1,0 +1,6 @@
+TYPES: BEGIN OF zestrutura_cliente,
+         codigo         TYPE char10,
+         nome           TYPE char40,
+         cidade         TYPE char30,
+         ultima_compra  TYPE dats,
+       END OF zestrutura_cliente.
