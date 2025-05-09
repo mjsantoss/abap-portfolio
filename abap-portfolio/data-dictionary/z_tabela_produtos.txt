@@ -1,0 +1,1 @@
+'Definição da tabela Z_PRODUTOS com os campos ID e Nome.'
